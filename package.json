@@ -1,0 +1,14 @@
+{
+  "name": "election",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "bVaisakh",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  }
+}
